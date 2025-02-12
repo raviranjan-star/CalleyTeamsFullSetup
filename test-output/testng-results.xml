@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-13T04:21:17 IST" name="Suite" finished-at="2025-02-13T04:22:27 IST" duration-ms="69485">
+    <groups>
+      <group name="Masters">
+        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@4426bff1]" name="login" class="testCases.LoginTest"/>
+        <method signature="RegistrationTest.Registration()[pri:0, instance:testCases.RegistrationTest@2f16c6b3]" name="Registration" class="testCases.RegistrationTest"/>
+        <method signature="UploadCSVTest.uploadCsv()[pri:0, instance:testCases.UploadCSVTest@34158c08]" name="uploadCsv" class="testCases.UploadCSVTest"/>
+      </group> <!-- Masters -->
+      <group name="Sanity">
+        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@4426bff1]" name="login" class="testCases.LoginTest"/>
+        <method signature="RegistrationTest.Registration()[pri:0, instance:testCases.RegistrationTest@2f16c6b3]" name="Registration" class="testCases.RegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@4426bff1]" name="login" class="testCases.LoginTest"/>
+        <method signature="UploadCSVTest.uploadCsv()[pri:0, instance:testCases.UploadCSVTest@34158c08]" name="uploadCsv" class="testCases.UploadCSVTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-02-13T04:21:17 IST" name="Test" finished-at="2025-02-13T04:22:27 IST" duration-ms="69485">
+      <class name="testCases.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@2f16c6b3]" started-at="2025-02-13T04:21:38 IST" name="setup" finished-at="2025-02-13T04:21:45 IST" duration-ms="6603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration()[pri:0, instance:testCases.RegistrationTest@2f16c6b3]" started-at="2025-02-13T04:21:45 IST" name="Registration" finished-at="2025-02-13T04:22:00 IST" duration-ms="15586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@2f16c6b3]" started-at="2025-02-13T04:22:00 IST" name="tearDown" finished-at="2025-02-13T04:22:01 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RegistrationTest -->
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginTest@4426bff1]" started-at="2025-02-13T04:21:18 IST" name="setup" finished-at="2025-02-13T04:21:28 IST" duration-ms="10072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testCases.LoginTest@4426bff1]" started-at="2025-02-13T04:21:28 IST" name="login" finished-at="2025-02-13T04:21:37 IST" duration-ms="9324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@4426bff1]" started-at="2025-02-13T04:21:37 IST" name="tearDown" finished-at="2025-02-13T04:21:38 IST" duration-ms="984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.UploadCSVTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.UploadCSVTest@34158c08]" started-at="2025-02-13T04:22:01 IST" name="setup" finished-at="2025-02-13T04:22:04 IST" duration-ms="3337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="uploadCsv()[pri:0, instance:testCases.UploadCSVTest@34158c08]" started-at="2025-02-13T04:22:04 IST" name="uploadCsv" finished-at="2025-02-13T04:22:26 IST" duration-ms="22078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadCsv -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.UploadCSVTest@34158c08]" started-at="2025-02-13T04:22:26 IST" name="tearDown" finished-at="2025-02-13T04:22:27 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.UploadCSVTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

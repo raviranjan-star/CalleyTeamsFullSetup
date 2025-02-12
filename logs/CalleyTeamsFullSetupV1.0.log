@@ -1,0 +1,28 @@
+2025-02-13 04:21:17,581(HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Ravi\eclipse-workspace\CalleyTeamsFullSetup-master\Master.xml
+
+2025-02-13 04:21:28,283(HH:mm:ss.SSS} [main] INFO  testCases.LoginTest ***** Login Test Started *****
+2025-02-13 04:21:28,534(HH:mm:ss.SSS} [main] INFO  testCases.LoginTest Username Entered
+2025-02-13 04:21:28,656(HH:mm:ss.SSS} [main] INFO  testCases.LoginTest Password Entered
+2025-02-13 04:21:37,567(HH:mm:ss.SSS} [main] INFO  testCases.LoginTest Login Button clicked
+2025-02-13 04:21:37,593(HH:mm:ss.SSS} [main] INFO  testCases.LoginTest ***** Login Test Completed *****
+2025-02-13 04:21:45,244(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest ***** Registration Test Started *****
+2025-02-13 04:21:50,368(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Name Entered
+2025-02-13 04:21:50,687(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Email Entered
+2025-02-13 04:21:50,835(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Password Entered
+2025-02-13 04:21:50,992(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Phone Number Entered
+2025-02-13 04:21:53,494(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Captcha Clicked
+2025-02-13 04:21:53,552(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Checked Box Clicked
+2025-02-13 04:21:53,709(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest SignUp Button Clicked
+2025-02-13 04:22:00,827(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest Registartion failled due to Captcha
+2025-02-13 04:22:00,827(HH:mm:ss.SSS} [main] INFO  testCases.RegistrationTest ***** Registration Test Completed *****
+2025-02-13 04:22:04,537(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest ***** Login Test Started *****
+2025-02-13 04:22:07,575(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Username Entered
+2025-02-13 04:22:07,710(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Password Entered
+2025-02-13 04:22:17,036(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Login Button clicked
+2025-02-13 04:22:17,067(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest ***** Login Test Completed *****
+2025-02-13 04:22:17,067(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest ***** Uploading CSV Test Started *****
+2025-02-13 04:22:17,480(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Model Content Closed
+2025-02-13 04:22:17,878(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Call list Menu Clicked
+2025-02-13 04:22:21,494(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest Standard Import Option is selected
+2025-02-13 04:22:26,610(HH:mm:ss.SSS} [main] INFO  testCases.UploadCSVTest File upload stopped due to Upgrade Notification
